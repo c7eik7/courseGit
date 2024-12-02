@@ -1,3 +1,3 @@
 # courseGit
 elzro course git
-## nNote For My Project
+## Note For My Project
